@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttachER", "AttachER\AttachER.csproj", "{8C791A3A-57AD-4A1B-BFD8-1B5E75F8AB62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttachERWeb", "AttachERWeb\AttachERWeb.csproj", "{CFDB5630-63A0-440B-8D43-373220C6BEA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C791A3A-57AD-4A1B-BFD8-1B5E75F8AB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C791A3A-57AD-4A1B-BFD8-1B5E75F8AB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C791A3A-57AD-4A1B-BFD8-1B5E75F8AB62}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{8C791A3A-57AD-4A1B-BFD8-1B5E75F8AB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C791A3A-57AD-4A1B-BFD8-1B5E75F8AB62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C791A3A-57AD-4A1B-BFD8-1B5E75F8AB62}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CFDB5630-63A0-440B-8D43-373220C6BEA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDB5630-63A0-440B-8D43-373220C6BEA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDB5630-63A0-440B-8D43-373220C6BEA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDB5630-63A0-440B-8D43-373220C6BEA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
